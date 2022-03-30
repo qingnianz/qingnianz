@@ -4,5 +4,4 @@
 
 ###  Hello 👋
 
-- :bulb: Want to Full Stack
-- :bulb: TODO
+- :bulb: Don't lose yourself
